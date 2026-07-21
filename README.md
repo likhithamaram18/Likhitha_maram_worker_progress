@@ -1,6 +1,3 @@
-Here's a cleaner, shorter, and more professional README.md suitable for your assignment. It also includes placeholders for a **preview image** and **demo video**.
-
-
 # Workers Progress Report
 
 A responsive recreation of the **Workers Progress Report** using **HTML5, CSS3, and JavaScript**. The project follows the assignment guidelines with dynamic rendering, responsive layout, reusable components, accessibility, and print support.
