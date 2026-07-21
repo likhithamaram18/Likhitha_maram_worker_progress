@@ -1,0 +1,84 @@
+/* =========================================================================
+   print.css
+   Applied only in print/export context. Goals: white background, no
+   interactive chrome, clean A4 page breaks between the three report
+   sections, preserved footer/page numbering.
+   ========================================================================= */
+
+@page {
+  size: A4;
+  margin: 16mm 14mm;
+}
+
+body {
+  background: #FFFFFF !important;
+}
+
+.no-print,
+.toolbar {
+  display: none !important;
+}
+
+.report {
+  max-width: none;
+  padding: 0;
+  gap: 0;
+}
+
+.report-page {
+  page-break-after: always;
+  break-after: page;
+  gap: 16px;
+}
+
+.report-page:last-child {
+  page-break-after: auto;
+  break-after: auto;
+}
+
+.card {
+  box-shadow: none;
+  border: 1px solid #D9DEE5;
+  break-inside: avoid;
+}
+
+.card:hover {
+  box-shadow: none;
+}
+
+.choice-option {
+  min-height: auto;
+}
+
+.choice-option:hover,
+.choice-option.is-checked {
+  background: transparent;
+}
+
+.checkbox-box {
+  border-color: #202124;
+}
+
+.choice-option.is-checked .checkbox-box {
+  background: #0F4C81;
+  border-color: #0F4C81;
+}
+
+.textarea-input,
+.text-input,
+.date-input,
+.inline-text-input {
+  border-color: #B8BDC7;
+}
+
+.textarea-counter {
+  display: none;
+}
+
+.pain-scale__btn {
+  transition: none;
+}
+
+a[href]::after {
+  content: "";
+}
