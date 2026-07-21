@@ -36,30 +36,6 @@ https://github.com/your-username/workers-progress-report/blob/main/videos/demo.m
 - Clean and modern UI
 ---
 
-## Project Structure
-
-workers-progress-report/
-│
-├── index.html
-├── css/
-│   ├── styles.css
-│   └── print.css
-├── js/
-│   ├── data.js
-│   ├── utils.js
-│   ├── components.js
-│   ├── render.js
-│   └── app.js
-├── assets/
-│   ├── logo.svg
-│   ├── preview.png
-│   └── icons/
-├── videos/
-│   └── demo.mp4
-└── README.md
-
----
-
 ## Getting Started
 
 Simply open index.html in any modern web browser.
