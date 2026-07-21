@@ -40,13 +40,6 @@ No installation or build process is required.
 
 ---
 
-## Dynamic Data
-
-All report data is stored in data.js.
-
-JavaScript dynamically generates the report sections, checkboxes, inputs, and repeated content. Updating the data automatically updates the UI without changing the HTML.
----
-
 ## Technologies
 
 - HTML5
