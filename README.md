@@ -21,29 +21,9 @@ https://github.com/your-username/workers-progress-report/blob/main/videos/demo.m
 
 ---
 
-## Features
-
-- HTML5, CSS3 & JavaScript
-- Responsive Design
-- Dynamic content rendering using JavaScript
-- Interactive checkboxes and form controls
-- Reusable components
-- Print-ready A4 layout
-- Clean and modern UI
----
-
-## Getting Started
-
-Simply open index.html in any modern web browser.
-
-No installation or build process is required.
-
----
-
 ## Technologies
 
 - HTML5
 - CSS3
 -  JavaScript
-
 
