@@ -11,8 +11,6 @@ A responsive recreation of the **Workers Progress Report** using **HTML5, CSS3, 
 
 ![Workers Progress Report](assets/preview.png)
 
-> Replace `assets/preview.png` with your project screenshot.
-
 ---
 
 ## Demo Video
@@ -20,8 +18,6 @@ A responsive recreation of the **Workers Progress Report** using **HTML5, CSS3, 
 Watch the project demo here:
 
 https://github.com/your-username/workers-progress-report/blob/main/videos/demo.mp4
-
-> Replace the link with your uploaded GitHub video.
 
 ---
 
